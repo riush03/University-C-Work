@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(108,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(102): message : while compiling class template member function 'std::string dynamic_Array<Engineer>::string_separator(const std::string &)'
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(159): message : see reference to function template instantiation 'std::string dynamic_Array<Engineer>::string_separator(const std::string &)' being compiled
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(135): message : see reference to class template instantiation 'dynamic_Array<Engineer>' being compiled
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(50,13): warning C4018: '<': signed/unsigned mismatch
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(49): message : while compiling class template member function 'T &dynamic_Array<T>::at(int)'
+          with
+          [
+              T=Engineer
+          ]
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(150): message : see reference to function template instantiation 'T &dynamic_Array<T>::at(int)' being compiled
+          with
+          [
+              T=Engineer
+          ]
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(33,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(28): message : while compiling class template member function 'dynamic_Array<Engineer>::dynamic_Array(const dynamic_Array<Engineer> &)'
+C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Source.cpp(157): message : see reference to function template instantiation 'dynamic_Array<Engineer>::dynamic_Array(const dynamic_Array<Engineer> &)' being compiled
+  DynamicArrays.vcxproj -> C:\Users\San\Desktop\assignment\LearningC++withDenis\DynamicArrays\Debug\DynamicArrays.exe
